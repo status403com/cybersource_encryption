@@ -53,7 +53,7 @@ func TestTokenizeCard(t *testing.T) {
 	card := CardDetails{
 		Number:          "4111111111111111",
 		SecurityCode:    "123",
-		Type:            CardTypeVisa,
+		Type:            string(CardTypeVisa),
 		ExpirationMonth: "12",
 		ExpirationYear:  "2026",
 	}
