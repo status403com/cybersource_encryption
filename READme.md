@@ -7,6 +7,8 @@ The implementation mirrors CyberSource’s **Flex Microform** flow and produces 
 > ⚠️ **Disclaimer**  
 > This project is for educational and research purposes only. You are responsible for complying with all applicable laws, merchant terms of service, and PCI requirements.
 
+📖 [Technical write-up](https://status403.com/blog/cybersource-antifraud?utm_source=github&utm_medium=referral&utm_campaign=cybersource-technical)
+
 ---
 
 ## Usage
