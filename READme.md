@@ -2,12 +2,12 @@
 
 This repository contains a fully working Proof of Concept (PoC) that demonstrates how to reconstruct **CyberSource Credit/Debit Card encryption** as used on websites such as **pokemoncenter.com**.
 
+📖 [Technical write-up](https://status403.com/blog/cybersource-antifraud?utm_source=github&utm_medium=referral&utm_campaign=cybersource-technical)
+
 The implementation mirrors CyberSource’s **Flex Microform** flow and produces a valid payment token (`jti`) that can be used during checkout automation.
 
 > ⚠️ **Disclaimer**  
 > This project is for educational and research purposes only. You are responsible for complying with all applicable laws, merchant terms of service, and PCI requirements.
-
-📖 [Technical write-up](https://status403.com/blog/cybersource-antifraud?utm_source=github&utm_medium=referral&utm_campaign=cybersource-technical)
 
 ---
 
